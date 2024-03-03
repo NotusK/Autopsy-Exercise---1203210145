@@ -60,5 +60,5 @@
 ![IMAGE!](Images/19.png)
 
 20. Cek Report
-
+![IMAGE!](Images/20.png)
 

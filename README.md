@@ -62,3 +62,4 @@
 20. Cek Report
 ![IMAGE!](Images/20.png)
 
+# Part 2 is still downloading "15Gb :((((("

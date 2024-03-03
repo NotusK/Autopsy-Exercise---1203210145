@@ -2,7 +2,9 @@
 
 1. Buat Case Number
 ![IMAGE!](Images/1.png)
+
 2. Buat struktur folder untuk autopsy didalam folder case number
+![IMAGE!](Images/2.png)
 
 3. Buat file txt untuk dokumentasi
 

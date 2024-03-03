@@ -24,44 +24,41 @@
 8. Set host name
 ![IMAGE!](Images/8.png)
 
-9. Set data source type
+9. Set data source type ke Disk Images
 ![IMAGE!](Images/9.png)
 
-10. Set data source type ke Disk Images
+10. Select data source "SuspectData.dd" dan set timezone ke (GMT +0:00) UTC karena kita tidak tau tersangka ada di timezone berapa. Serta set hash value dari "SuspectData.dd"
 ![IMAGE!](Images/10.png)
 
-11. Select data source "SuspectData.dd" dan set timezone ke (GMT +0:00) UTC karena kita tidak tau tersangka ada di timezone berapa. Serta set hash value dari "SuspectData.dd"
+11. Set Modules yang ingin digunakan untuk investigasi
 ![IMAGE!](Images/11.png)
 
-12. Set Modules yang ingin digunakan untuk investigasi
+12. Klik next dan Finish
 ![IMAGE!](Images/12.png)
 
-13. Klik next dan Finish
+13. Lihat-lihat filenya (Found a Secret Code!)
 ![IMAGE!](Images/13.png)
 
-14. Lihat-lihat filenya (Found a Secret Code!)
+14. Lihat deleted files list
 ![IMAGE!](Images/14.png)
 
-15. Lihat deleted files list
+15. Lihat Images dengan gallery view
 ![IMAGE!](Images/15.png)
 
-16. Lihat Images dengan gallery view
+16. Lihat Hex suatu file dan buka pada HxD
 ![IMAGE!](Images/16.png)
 
-17. Lihat Hex suatu file dan buka pada HxD
+17. Gunakan Keyword search, cari "key" dan "code"
 ![IMAGE!](Images/17.png)
 ![IMAGE!](Images/17-2.png)
 
-18. Gunakan Keyword search, cari "key" dan "code"
+18. Tag file hello sebagai notable dan SMBR sebagai bookmark
 ![IMAGE!](Images/18.png)
 ![IMAGE!](Images/18-2.png)
 
-19. Tag file hello sebagai notable dan SMBR sebagai bookmark
+19. Buat file report
 ![IMAGE!](Images/19.png)
 
-20. Buat file report
-
-
-21. Cek report
+20. Cek Report
 
 

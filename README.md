@@ -50,16 +50,18 @@
 
 17. Lihat Hex suatu file dan buka pada HxD
 ![IMAGE!](Images/17.png)
-
-18. Gunakan Keyword search, cari "key" dan "code"
 ![IMAGE!](Images/17-2.png)
 
-19. Tag file hello sebagai notable dan SMBR sebagai bookmark
+18. Gunakan Keyword search, cari "key" dan "code"
 ![IMAGE!](Images/18.png)
-
-20. Buat file report
 ![IMAGE!](Images/18-2.png)
 
-21. Cek report
+19. Tag file hello sebagai notable dan SMBR sebagai bookmark
 ![IMAGE!](Images/19.png)
+
+20. Buat file report
+
+
+21. Cek report
+
 

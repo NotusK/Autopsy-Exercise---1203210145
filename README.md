@@ -1,6 +1,6 @@
 # Autopsy-Exercise---1203210145
 
-1. Buat Case Number
+1. Buat Case Number <br />
 ![IMAGE!](Images/1.png)
 
 

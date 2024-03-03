@@ -1,7 +1,6 @@
 # Autopsy-Exercise---1203210145
 
-
-1. Buat Case Number
+1. Buat Case Number\\
 ![IMAGE!](Images/1.png)
 
 2. Buat struktur folder untuk autopsy didalam folder case number

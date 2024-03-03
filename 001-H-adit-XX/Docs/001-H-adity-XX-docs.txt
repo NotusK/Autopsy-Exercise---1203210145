@@ -1,0 +1,16 @@
+19:29 03/03/2024 Case 001-H-adit-XX started by adit
+19:32 03/03/2024 Copied Exhibit001 Image to F:\Forensik\CASES\001-H-adit-XX\Images\Exhibit001
+19:33 03/03/2024 Exhibit001 MD5 hash efbf30672c4eb3713b7f639f16944fd3
+19:34 03/03/2024 Exhibit001 SHA256 hash 6baed29520499d2d5c44c32a0f3a8a08cbe92c47b4e00101b1041d14f9a579e2
+19:35 03/03/2024 Started Autopsy 4.21.0
+19:38 03/03/2024 Set case name and base directory to F:\Forensik\CASES\001-H-adit-XX\Autopsy\001-H-adit-XX
+19:41 03/03/2024 Set case number dan data examiner data serta Oraganization as Telkom
+19:43 03/03/2024 Specify host name as Exhibit001
+19:44 03/03/2024 Set data source type as Disk Image or VM File
+19:46 03/03/2024 Set path to SuspectData.dd, setting timezone to (GMT +0:00) UTC, and put hash value of SuspectData.dd
+19:49 03/03/2024 Set modules yang ingin digunakan untuk investigasi
+19:53 03/03/2024 Found a file named hello that has secret code in it
+20:00 03/03/2024 Tagged file hello as notable an SMBR as bookmark
+20:03 03/03/2024 Generated report
+20:05 03/03/2024 Copied report file to the reports folder
+

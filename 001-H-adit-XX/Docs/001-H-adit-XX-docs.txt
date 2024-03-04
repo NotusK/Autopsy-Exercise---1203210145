@@ -13,4 +13,11 @@
 20:00 03/03/2024 Tagged file hello as notable an SMBR as bookmark
 20:03 03/03/2024 Generated report
 20:05 03/03/2024 Copied report file to the reports folder
-
+19:58 04/03/2024 Moved Case 001-H-adit-xx to D:\Forensik\CASES\001-H-adit-XX because not enough space in F
+19:59 04/03/2024 Copied Exhibit002 Image to D:\Forensik\CASES\001-H-adit-XX\Images\Exhibit002
+20:01 04/03/2024 Started Autopsy 4.21.0
+20:01 04/03/2024 Adding new data source (Exhibit002)
+20:02 04/03/2024 Set data source type as Disk Image or VM File
+20:03 04/03/2024 Set path to the Exhibit002 image file and setting timezone to (GMT +0:00) UTC
+20:05 04/03/2024 Configuring Ingest
+23:07 04/03/2024 Finished Generating Report
